@@ -1,4 +1,4 @@
-# 🗺️ Mapas Urbanos — Visiora
+# 🗺️ Mapas Urbanos — Veyro
 
 ![Panel_Gnral1](../Imágenes/Panel_Gnral1.jpg)
 ![Panel_Gnral2](../Imágenes/Panel_Gnral2.jpg)
@@ -14,3 +14,4 @@ Elementos principales:
 - Mapas de calor para visualizar densidad de personas o vehículos  
 
 La visualización combina **tecnología y accesibilidad**, permitiendo a cualquier ciudadano comprender fácilmente la situación de la ciudad.
+
