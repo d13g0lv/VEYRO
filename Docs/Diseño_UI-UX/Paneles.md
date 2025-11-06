@@ -1,4 +1,4 @@
-# 🖥️ Panel Administrativo — Visiora
+# 🖥️ Panel Administrativo — Veyro
 
 ![Panel_Admin](../Imágenes/Panel_Admin.jpg)
 ![Panel_Admin2](../Imágenes/Panel_Admin2.jpg)
@@ -13,3 +13,4 @@ Permite visualizar:
 
 El diseño es **limpio, profesional y responsivo**, combinando gráficos dinámicos con íconos de estado en tiempo real.  
 Representa la **inteligencia urbana de Visiora** desde una vista de control central.
+
