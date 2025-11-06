@@ -1,4 +1,4 @@
-# 🚗👣 Modos de Uso — Visiora
+# 🚗👣 Modos de Uso — Veyro
 
 ![Modo1](../Imágenes/Modo1.jpg)
 ![Modo2](../Imágenes/Modo2.jpg)
@@ -15,3 +15,4 @@ Permite filtrar por **rutas seguras**, **zonas concurridas** o **áreas tranquil
 Ideal para moverse con seguridad y eficiencia.
 
 Ambas interfaces mantienen consistencia visual y botones grandes para facilitar el uso mientras se está en movimiento.
+
