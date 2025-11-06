@@ -1,4 +1,4 @@
-#  Pantalla de Alertas — Visiora
+#  Pantalla de Alertas — Veyro
 
 ![Alerta1](../Imágenes/Alerta1.jpg)
 
@@ -11,3 +11,4 @@ Incluye alertas por:
 
 El diseño mantiene una **paleta en azul y verde lima**, priorizando la legibilidad y el contraste.  
 Los íconos de alerta son **claros y minimalistas**, con colores intuitivos según nivel de prioridad.
+
